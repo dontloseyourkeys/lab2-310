@@ -1,11 +1,9 @@
-﻿#Summary stats derived from NFDB Agency Point data (NFDB_point_20220901),,,,,
-#"The Canadian National Fire Database (CNFDB) is a collection of forest fire data from various sources; these data include fire locations (point data) and fire perimeters (polygon data) as provided by Canadian fire management agencies (provinces, territories, and Parks Canada).  These summary statistics are derived from the CNFDB point data. Statistics are shown for all reported fires as well as only the fires greater than 200 hectares — these large fires represent a small percentage of all fires but account for most of the area burned (more than 98%). These statistics summarize data that has been contributed by the agencies and may not be consistent with other sources. Note that the data contained in the CNFDB are not complete nor are they without error. Data completeness and quality vary among agencies and between years, and data accuracy varies due to different mapping/data collection methods. For more information, please refer to the Canadian Wildland Fire Information System - http://cwfis.cfs.nrcan.gc.ca/ha/nfdb
-#Contact: john.little@nrcan-rncan.gc.ca",,,,,
-#CANADA - WILDLAND FIRE SUMMARY STATS,,,,,
-#,NFDB_point_20220901,,,NFDB_point_20220901_large_fires,
+﻿Summary stats derived from NFDB Agency Point data (NFDB_point_20220901),,,,,
+"The Canadian National Fire Database (CNFDB) is a collection of forest fire data from various sources; these data include fire locations (point data) and fire perimeters (polygon data) as provided by Canadian fire management agencies (provinces, territories, and Parks Canada).  These summary statistics are derived from the CNFDB point data. Statistics are shown for all reported fires as well as only the fires greater than 200 hectares — these large fires represent a small percentage of all fires but account for most of the area burned (more than 98%). These statistics summarize data that has been contributed by the agencies and may not be consistent with other sources. Note that the data contained in the CNFDB are not complete nor are they without error. Data completeness and quality vary among agencies and between years, and data accuracy varies due to different mapping/data collection methods. For more information, please refer to the Canadian Wildland Fire Information System - http://cwfis.cfs.nrcan.gc.ca/ha/nfdb
+Contact: john.little@nrcan-rncan.gc.ca",,,,,
+CANADA - WILDLAND FIRE SUMMARY STATS,,,,,
+,NFDB_point_20220901,,,NFDB_point_20220901_large_fires,
 YEAR, FIRES, TOTAL_HA, MAX_SIZE_HA, FIRES >200ha, TOTAL_HA (>200ha)
-2023,
-2022,
 2021,"6,709","4,078,897","271,701",596,"4,038,710"
 2020,"4,001","218,232","50,892",80,"206,153"
 2019,"4,062","1,786,214","350,135",192,"1,765,436"
